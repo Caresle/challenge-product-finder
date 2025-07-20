@@ -36,7 +36,7 @@ public class Main {
                 return false;
 
             return categoriaDeseada.equals(categoriaProducto);
-        }).forEach(System.out::println);;
+        }).forEach(System.out::println);
     }
 }
 
